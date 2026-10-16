@@ -1,0 +1,81 @@
+Category,Rank,Word,tf-idf Score
+Affordability,1,tax,0.07435832944
+Affordability,2,rent,0.07160153704
+Affordability,3,housing,0.0590618394
+Affordability,4,trump,0.05780233857
+Affordability,5,plan,0.05383560295
+Affordability,6,hike,0.05033555441
+Affordability,7,freeze,0.04889917575
+Affordability,8,donald,0.04823677191
+Affordability,9,democratic,0.04518830565
+Affordability,10,socialist,0.0428630941
+Election + Campaign Results,1,cuomo,0.09840555339
+Election + Campaign Results,2,andrew,0.08630741167
+Election + Campaign Results,3,election,0.07342913988
+Election + Campaign Results,4,democratic,0.07295224051
+Election + Campaign Results,5,race,0.06450637365
+Election + Campaign Results,6,socialist,0.06303429077
+Election + Campaign Results,7,campaign,0.04598380101
+Election + Campaign Results,8,victory,0.04515768122
+Election + Campaign Results,9,debate,0.04268040044
+Election + Campaign Results,10,elected,0.04246055123
+Immigration/ICE,1,trump,0.1024287071
+Immigration/ICE,2,born,0.09460674267
+Immigration/ICE,3,ice,0.0897894956
+Immigration/ICE,4,foreign,0.07095505701
+Immigration/ICE,5,illegal,0.06734907996
+Immigration/ICE,6,sanctuary,0.06647774098
+Immigration/ICE,7,immigration,0.06540631612
+Immigration/ICE,8,socialist,0.06463559362
+Immigration/ICE,9,enforcement,0.06421480773
+Immigration/ICE,10,lead,0.06110568812
+Personal Life,1,aunt,0.09548342331
+Personal Life,2,story,0.08511316797
+Personal Life,3,11,0.08108354938
+Personal Life,4,muslim,0.08107528706
+Personal Life,5,duwaji,0.06645675794
+Personal Life,6,islamophobia,0.05774070067
+Personal Life,7,rama,0.0576161498
+Personal Life,8,election,0.0545464131
+Personal Life,9,hijab,0.05430374009
+Personal Life,10,nair,0.04858424741
+Police & Crime,1,nypd,0.1321944806
+Police & Crime,2,tisch,0.1316242837
+Police & Crime,3,police,0.1210639541
+Police & Crime,4,jessica,0.1135956431
+Police & Crime,5,commissioner,0.0989088449
+Police & Crime,6,cops,0.06584377838
+Police & Crime,7,department,0.06569629702
+Police & Crime,8,officers,0.06404007843
+Police & Crime,9,elected,0.05875775512
+Police & Crime,10,wednesday,0.05367517668
+Political Figure Opinions,1,trump,0.1651317031
+Political Figure Opinions,2,president,0.08955961411
+Political Figure Opinions,3,donald,0.08061542483
+Political Figure Opinions,4,meeting,0.07628855258
+Political Figure Opinions,5,house,0.0694832966
+Political Figure Opinions,6,white,0.05894800925
+Political Figure Opinions,7,democratic,0.05738933079
+Political Figure Opinions,8,socialist,0.05414451207
+Political Figure Opinions,9,office,0.04980082985
+Political Figure Opinions,10,friday,0.04814969521
+Political Identity,1,democratic,0.06686872854
+Political Identity,2,trump,0.0626869879
+Political Identity,3,party,0.05968706549
+Political Identity,4,starbucks,0.05419114043
+Political Identity,5,election,0.05069657732
+Political Identity,6,socialist,0.04902543189
+Political Identity,7,political,0.04781721574
+Political Identity,8,democrats,0.04700799142
+Political Identity,9,race,0.04447234375
+Political Identity,10,2025,0.04145570887
+Popular Culture,1,socialist,0.05814955453
+Popular Culture,2,andrew,0.04741084568
+Popular Culture,3,trump,0.04304761762
+Popular Culture,4,democratic,0.0426952378
+Popular Culture,5,campaign,0.03978906371
+Popular Culture,6,race,0.03976382787
+Popular Culture,7,daily,0.03941032456
+Popular Culture,8,cuomo,0.03701137412
+Popular Culture,9,knicks,0.0364737119
+Popular Culture,10,host,0.03492078485

@@ -1,0 +1,81 @@
+Category,Rank,Word,tf-idf Score
+Affordability,1,donald trump,0.05909145814
+Affordability,2,tax hike,0.05331296594
+Affordability,3,eric adams,0.05019441707
+Affordability,4,raising taxes,0.04758968136
+Affordability,5,rent freeze,0.04247865591
+Affordability,6,angelina katsanis,0.03984413382
+Affordability,7,ballot measures,0.03827717973
+Affordability,8,free buses,0.03668595145
+Affordability,9,freeze rent,0.03646978556
+Affordability,10,democratic socialist,0.03526166827
+Election + Campaign Results,1,andrew cuomo,0.1232507496
+Election + Campaign Results,2,democratic socialist,0.05082555041
+Election + Campaign Results,3,election day,0.04933353973
+Election + Campaign Results,4,curtis sliwa,0.04661556724
+Election + Campaign Results,5,year old,0.03998696499
+Election + Campaign Results,6,gov andrew,0.03773267093
+Election + Campaign Results,7,democratic nominee,0.03054649264
+Election + Campaign Results,8,united states,0.02874095777
+Election + Campaign Results,9,south asian,0.02775317594
+Election + Campaign Results,10,democratic party,0.02636147933
+Immigration/ICE,1,president trump,0.1053295385
+Immigration/ICE,2,foreign born,0.09524993116
+Immigration/ICE,3,calls ice,0.07204865977
+Immigration/ICE,4,donald trump,0.07118576352
+Immigration/ICE,5,immigration enforcement,0.06690683567
+Immigration/ICE,6,lead foreign,0.06349995411
+Immigration/ICE,7,illegal aliens,0.05585278672
+Immigration/ICE,8,born voters,0.05067974829
+Immigration/ICE,9,born yorkers,0.04906021949
+Immigration/ICE,10,says defend,0.04375332668
+Personal Life,1,rama duwaji,0.08584760396
+Personal Life,2,mira nair,0.05363028866
+Personal Life,3,story relative,0.04839623387
+Personal Life,4,story aunt,0.04839623387
+Personal Life,5,muslim galling,0.04545454545
+Personal Life,6,democratic nominee,0.04140890516
+Personal Life,7,racist baseless,0.0396154456
+Personal Life,8,emotional speech,0.0396154456
+Personal Life,9,wife rama,0.03834600834
+Personal Life,10,feel safe,0.03336209584
+Police & Crime,1,jessica tisch,0.123066819
+Police & Crime,2,commissioner jessica,0.08823474742
+Police & Crime,3,police department,0.07844424979
+Police & Crime,4,comments runner,0.06975320122
+Police & Crime,5,police commissioner,0.06026131342
+Police & Crime,6,nypd commissioner,0.05810701037
+Police & Crime,7,police officers,0.04683864279
+Police & Crime,8,anti cop,0.04511903449
+Police & Crime,9,defund police,0.04044186821
+Police & Crime,10,tisch stay,0.03903574223
+Political Figure Opinions,1,donald trump,0.1205763984
+Political Figure Opinions,2,president donald,0.07882933145
+Political Figure Opinions,3,white house,0.07398814953
+Political Figure Opinions,4,oval office,0.05844135586
+Political Figure Opinions,5,andrew cuomo,0.05751509928
+Political Figure Opinions,6,president trump,0.04967438679
+Political Figure Opinions,7,eric adams,0.03641347531
+Political Figure Opinions,8,democratic socialist,0.03112590544
+Political Figure Opinions,9,democratic party,0.02857773471
+Political Figure Opinions,10,trump meeting,0.02822785604
+Political Identity,1,democratic party,0.08151458755
+Political Identity,2,donald trump,0.04219006844
+Political Identity,3,islamophobic attacks,0.03900475841
+Political Identity,4,boycott starbucks,0.03898167952
+Political Identity,5,trump fascist,0.03214226224
+Political Identity,6,big apple,0.02747631583
+Political Identity,7,democratic socialist,0.0259395834
+Political Identity,8,israel genocide,0.02536936128
+Political Identity,9,political landscape,0.02380952381
+Political Identity,10,November 2025,0.02358230648
+Popular Culture,1,andrew cuomo,0.07583785075
+Popular Culture,2,jon stewart,0.03462453717
+Popular Culture,3,debra messing,0.03238828477
+Popular Culture,4,story appeared,0.02841297189
+Popular Culture,5,democratic socialist,0.02752611012
+Popular Culture,6,donald trump,0.02719951324
+Popular Culture,7,daily caller,0.02533559436
+Popular Culture,8,curtis sliwa,0.02500646466
+Popular Culture,9,cease desist,0.0247831557
+Popular Culture,10,social media,0.02349044261
